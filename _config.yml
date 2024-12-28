@@ -27,7 +27,7 @@ author:
   location         : "Harbin"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
   email            : "fei.guan@nefu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Fei-Guan-3"
   uri              :
