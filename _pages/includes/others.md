@@ -9,4 +9,4 @@
 - *2025*, Program Committee Member of ECRTS 2025
 
 # 📖 Teachings
-- *2019-2023*: Computer Organization, Microcontroller Principles and Interface Technology, and Digital Logic.
+- *2019-2023*: Computer Organization, Microcontroller Principles and Interface Technology, and Digital Logic.
